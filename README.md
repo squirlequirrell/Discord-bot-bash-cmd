@@ -3,13 +3,14 @@
 Python librarys needed: discord
 For Arch Linux you can install with:
 ```sh
-sudo pacman -S python-discord
+yay -S python-discord
 ```
+(Or any other aur helper)
 With pip3 it is:
 ```py
 pip3 install discord.py
 ```
-You may need to include ```--break-system-packages```<br><br>
+You may need to include ```--break-system-packages```<br><br><br><br>
 Bot requirements (In Discord):
 - MESSAGE CONTENT INTENT is set ON under Bot
 - Discord token is specified in python file<br><br>
