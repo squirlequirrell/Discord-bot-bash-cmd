@@ -1,6 +1,6 @@
 **This is a discord bot coded in python that will run a bash command when !run is sent in a channel<br><br>**
 
-Python librarys needed: discord
+Python librarys needed: discord<br><br>
 For Arch Linux you can install with:
 ```sh
 yay -S python-discord
