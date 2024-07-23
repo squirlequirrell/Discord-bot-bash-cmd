@@ -15,5 +15,5 @@ Bot requirements (In Discord):
 - MESSAGE CONTENT INTENT is set ON under Bot
 - Discord token is specified in python file<br><br>
   
-Add using OAuth2 URL Generator and checking "bot"
+Add using OAuth2 URL Generator and checking "bot"<br><br>
 Use the generated invite link to invite the bot to your server<br><br>
