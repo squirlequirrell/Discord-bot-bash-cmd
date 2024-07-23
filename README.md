@@ -5,7 +5,7 @@ For Arch Linux you can install with:
 ```sh
 yay -S python-discord
 ```
-(Or any other aur helper)
+(Or any other aur helper)<br><br>
 With pip3 it is:
 ```py
 pip3 install discord.py
